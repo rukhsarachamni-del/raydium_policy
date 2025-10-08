@@ -14,7 +14,7 @@ export default function Policy() {
             </svg>
           </div> */}
           <div>
-            <h1 className='text-lg font-bold'>Raydium Wallet — Privacy Policy</h1>
+            <h1 className='text-lg font-bold'>RAY - Crypyo Wallet — Privacy Policy</h1>
             <p className='text-gray-400 text-sm'>This policy explains how Raydium Wallet collects, stores and protects data related to the cryptocurrency wallet service.</p>
           </div>
         </div>
@@ -71,7 +71,7 @@ export default function Policy() {
       <div className='bg-[#0b1220] p-6 rounded-2xl shadow-xl mt-6'>
         <h2 className='text-lg font-semibold mb-3'>Contact & Your Rights</h2>
         <p className='text-gray-400 text-sm mb-3'>
-          If you have questions about this policy, or wish to request access, correction or deletion of your personal data (to the extent permitted by law), please contact Raydium Wallet support at: <strong>tutumi45456768@gmail.com</strong>.
+          If you have questions about this policy, or wish to request access, correction or deletion of your personal data (to the extent permitted by law), please contact Raydium Wallet support at: <strong>wendyjones.221984@gmail.com</strong>.
         </p>
         <p className='text-gray-400 text-sm'>
           Note: because blockchain records are distributed and public, certain transaction-related data tied to wallet addresses may not be deletable. We will assist where possible within legal and technical constraints.
@@ -79,7 +79,7 @@ export default function Policy() {
       </div>
 
       <footer className='mt-6 text-center text-gray-400 text-sm'>
-        &copy; <strong>Raydium Wallet</strong> — All rights reserved. If you need a customized version or translations, let us know.
+        &copy; <strong>RAY - Crypyo Wallet</strong> — All rights reserved. If you need a customized version or translations, let us know.
       </footer>
     </div>
   );
