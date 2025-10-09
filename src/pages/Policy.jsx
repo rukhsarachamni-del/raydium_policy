@@ -15,7 +15,7 @@ export default function Policy() {
           </div> */}
           <div>
             <h1 className='text-lg font-bold'>RAY - Crypyo Wallet — Privacy Policy</h1>
-            <p className='text-gray-400 text-sm'>This policy explains how Raydium Wallet collects, stores and protects data related to the cryptocurrency wallet service.</p>
+            <p className='text-gray-400 text-sm'>This policy explains how RAY - Crypyo Wallet collects, stores and protects data related to the cryptocurrency wallet service.</p>
           </div>
         </div>
         <Link to='/support' className='px-4 py-2 rounded-lg bg-gradient-to-r from-purple-600 to-cyan-400 text-white font-semibold'>
@@ -35,7 +35,7 @@ export default function Policy() {
           </div>
         </div>
         <p className='text-gray-400 text-sm'>
-          Please read this privacy policy carefully before using the service. Below are the main categories of information Raydium Wallet collects, how we use it, and the security measures we employ.
+          Please read this privacy policy carefully before using the service. Below are the main categories of information RAY - Crypyo Wallet collects, how we use it, and the security measures we employ.
         </p>
       </div>
 
@@ -43,7 +43,7 @@ export default function Policy() {
         <h2 className='text-lg font-semibold mb-3'>Information We Collect</h2>
         <div className='divide-y divide-white/5'>
           <AccordionItem title='1. Basic personal information' openByDefault>
-            Raydium Wallet collects basic user information such as <strong>name, phone number, and email address</strong> for the purpose of creating and managing a Raydium Wallet account, authentication, and support.
+            RAY - Crypyo Wallet Wallet collects basic user information such as <strong>name, phone number, and email address</strong> for the purpose of creating and managing a RAY - Crypyo Wallet account, authentication, and support.
           </AccordionItem>
 
           <AccordionItem title='2. Device information'>
@@ -51,11 +51,11 @@ export default function Policy() {
           </AccordionItem>
 
           <AccordionItem title='3. Transaction information stored on a public ledger'>
-            In addition, Raydium Wallet collects information about user transactions within the app and records that information on a <strong>public ledger</strong>. Transaction data may include the date and time of the transaction, the amount transferred, and the wallet addresses of the sender and receiver. Because this data is stored on a public blockchain, transaction-related wallet addresses may be visible to the public.
+            In addition, RAY - Crypyo Wallet collects information about user transactions within the app and records that information on a <strong>public ledger</strong>. Transaction data may include the date and time of the transaction, the amount transferred, and the wallet addresses of the sender and receiver. Because this data is stored on a public blockchain, transaction-related wallet addresses may be visible to the public.
           </AccordionItem>
 
           <AccordionItem title='4. We do not sell user data'>
-            Raydium Wallet takes user privacy seriously and does not sell user data to third parties. We only share user data when required by law or legitimate legal process (for example, court orders or law enforcement requests).
+            RAY - Crypyo Wallet takes user privacy seriously and does not sell user data to third parties. We only share user data when required by law or legitimate legal process (for example, court orders or law enforcement requests).
           </AccordionItem>
 
           <AccordionItem title='5. Security measures'>
@@ -63,7 +63,7 @@ export default function Policy() {
           </AccordionItem>
 
           <AccordionItem title='6. Read and understand'>
-            It is important to read and understand the privacy policy before using any app or service. Be aware of the data being collected and how it is used. By using Raydium Wallet, you acknowledge and accept the terms described in this policy.
+            It is important to read and understand the privacy policy before using any app or service. Be aware of the data being collected and how it is used. By using RAY - Crypyo Wallet, you acknowledge and accept the terms described in this policy.
           </AccordionItem>
         </div>
       </div>
@@ -71,7 +71,7 @@ export default function Policy() {
       <div className='bg-[#0b1220] p-6 rounded-2xl shadow-xl mt-6'>
         <h2 className='text-lg font-semibold mb-3'>Contact & Your Rights</h2>
         <p className='text-gray-400 text-sm mb-3'>
-          If you have questions about this policy, or wish to request access, correction or deletion of your personal data (to the extent permitted by law), please contact Raydium Wallet support at: <strong>wendyjones.221984@gmail.com</strong>.
+          If you have questions about this policy, or wish to request access, correction or deletion of your personal data (to the extent permitted by law), please contact RAY - Crypyo Wallet support at: <strong>wendyjones.221984@gmail.com</strong>.
         </p>
         <p className='text-gray-400 text-sm'>
           Note: because blockchain records are distributed and public, certain transaction-related data tied to wallet addresses may not be deletable. We will assist where possible within legal and technical constraints.
